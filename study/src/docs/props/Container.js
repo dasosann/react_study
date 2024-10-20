@@ -3,7 +3,7 @@ import Component from './Component';
 import Component2 from './Component2';
 
 const Container = () => {
-  const name = "김세환";
+  const name = "홍길동";
   const age = 20;
   const printName = (name) => {
     console.log(name)

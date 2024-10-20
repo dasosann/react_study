@@ -7,7 +7,6 @@ const Jsx01 = () => {
     </React.Fragment>
   )
 }
-
 const Jsx02 = () => {
   return (
     <>
@@ -15,7 +14,6 @@ const Jsx02 = () => {
     </>
   )
 }
-
 const Jsx03 = () => {
   return (
     <>
@@ -23,6 +21,5 @@ const Jsx03 = () => {
     </>
   )
 }
-
 export { Jsx02, Jsx03 };
 export default Jsx01;
